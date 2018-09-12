@@ -1,5 +1,8 @@
 _repo: Mrs-Loudon-s-Entertaining-Naturalist-Being-popular-descriptions-tales-and-anecdotes-of-more-t__51166
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51166-h/images/cover.jpg
 creator:
   author:
     agent_name: Loudon, Mrs. (Jane)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '41383'
     url: http://www.gutenberg.org/2009/agents/41383
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51166#Mrs-Loudon-s-Entertaining-Naturalist-Being-popular-descriptions-tales-and-anecdotes-of-more-t_
 gutenberg_issued: '2016-02-10'
 gutenberg_type: Text
 identifiers:
