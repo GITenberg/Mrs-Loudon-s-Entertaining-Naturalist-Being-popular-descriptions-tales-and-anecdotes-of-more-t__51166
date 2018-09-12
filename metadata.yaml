@@ -1,0 +1,39 @@
+_repo: Mrs-Loudon-s-Entertaining-Naturalist-Being-popular-descriptions-tales-and-anecdotes-of-more-t__51166
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Loudon, Mrs. (Jane)
+    aliases:
+    - Loudon, Jane Webb
+    - Loudon, Jane
+    - Webb, Jane
+    birthdate: 1807
+    deathdate: 1858
+    gutenberg_agent_id: '44664'
+    url: http://www.gutenberg.org/2009/agents/44664
+    wikipedia: https://en.wikipedia.org/wiki/Jane_C._Loudon
+  editor:
+    agent_name: Dallas, W. S. (William Sweetland)
+    alias: Dallas, William Sweetland
+    birthdate: 1824
+    deathdate: 1890
+    gutenberg_agent_id: '41383'
+    url: http://www.gutenberg.org/2009/agents/41383
+description: ''
+gutenberg_issued: '2016-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51166'
+  lccn: agr07000610
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile literature'
+- !lcc 'QL'
+- !lcsh 'Zoology -- Juvenile literature'
+- GITenberg
+title: "Mrs. Loudon's Entertaining Naturalist\r\nBeing popular descriptions, tales,\
+  \ and anecdotes of more than Five Hundred Animals."
+url: http://www.gutenberg.org/ebooks/51166
